@@ -4,3 +4,4 @@
 
 https://github.com/sawanoboly/frantz-plugin-typetalk-unofficial
 
+typetalkのプラグインと比べて、こっちはタブ1つでの操作はイマイチ感。
