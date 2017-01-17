@@ -1,0 +1,27 @@
+{
+  "name": "Backlog-unofficial",
+  "version": "1.0.0",
+  "description": "Backlog",
+  "main": "index.js",
+  "author": "SAWANOBORI Yukihiko <sawanoboriyu@higanworks.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.backlog.jp",
+    "serviceName": "Backlog-unofficial",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "wording": {
+        "url": "backlog.jp",
+        "team": "Backlog"
+    },
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
